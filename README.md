@@ -1,4 +1,6 @@
-### Hi there 👋
+# moraaar (Inactive)
+
+Account used during tenure at *Game Engine and Developer Services* (Amazon) contributing to [Open 3D Engine (O3DE)](https://github.com/o3de/o3de).
 
 <!--
 **moraaar/moraaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎮 🎲♟🎯🔧🕹
+
+![moraaar's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moraaar&count_private=true&langs_count=8&theme=tokyonight&layout=compact)
 -->
+
+![moraaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=moraaar&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github)
