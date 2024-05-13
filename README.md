@@ -1,6 +1,6 @@
 # moraaar (Inactive)
 
-Account used during tenure at *Game Engine and Developer Services* (Amazon) contributing to [Open 3D Engine (O3DE)](https://github.com/o3de/o3de).
+Account used during tenure at *Game Engine and Developer Services* (Amazon) contributing to [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) (2021-2023).
 
 <!--
 **moraaar/moraaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
